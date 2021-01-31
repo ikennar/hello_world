@@ -1,2 +1,4 @@
 # hello_world
-kennar's first repository
+This is my repository
+Wait for more in github.
+Thank you!
